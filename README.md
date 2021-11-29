@@ -1,6 +1,7 @@
 # mySpaceship
 
-Description
+Description (this was a school assignment, and this was the prompt):
+
 You have been recently been hired by SpacePro, a new rocket manufacturer, and have been tasked with designing a simulator for their spaceships. This simulator creates a virtual “space” and keeps track of the basic movements and direction of a given ship. Your job is to keep track of where the ship is and it’s orientation relative to its starting point.
 
 Instructions
