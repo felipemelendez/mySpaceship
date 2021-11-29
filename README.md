@@ -1,6 +1,6 @@
 # mySpaceship
 
-Description (this was a school assignment and I solved it in C and JS; for JS I solved the problem using two diffrent approaches.
+This was a school assignment and I solved it in C and JS, and I solved the problem in JS using two diffrent approaches.
 
 This was the prompt:
 
