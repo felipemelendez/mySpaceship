@@ -1,4 +1,4 @@
-# mySpaceship
+# My Spaceship
 
 This was a school assignment and I solved it in C and JS, and I solved the problem in JS using two diffrent approaches.
 
